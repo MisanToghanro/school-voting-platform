@@ -23,21 +23,15 @@ const Header = () => {
           </a>
 
           <a
-            href="/Login/admin"
+            href="/Login/adminLogin"
             className="font-medium text-gray-700 transition hover:text-blue-600"
           >
             Admin
           </a>
 
-          <a
-            href="/candidate"
-            className="font-medium text-gray-700 transition hover:text-blue-600"
-          >
-            Candidate
-          </a>
 
           <a
-            href="/student"
+            href="/studentLogin"
             className="font-medium text-gray-700 transition hover:text-blue-600"
           >
             Student
